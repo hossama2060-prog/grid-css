@@ -1,0 +1,68 @@
+.pairent{
+    display: flex;
+    gap: 10px;
+}
+
+.gus{
+    display: grid;
+    grid-template-columns: 50% 50% 50%;
+}
+
+
+
+.ff{
+    color: red;
+}
+
+.hj{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.you{
+    display: flex;
+}
+.he{
+    display: flex;
+}
+.mo{
+    display: flex;
+}
+.tea{
+display: flex;
+position: relative;
+}
+.sport{
+    background-image: url(banner/b7.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+.iam{
+    background-image: url(banner/b4.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 40%;
+}
+
+.she{
+    background-image: url(banner/b18.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 30%;
+}
+
+
+
+
+
+
+
